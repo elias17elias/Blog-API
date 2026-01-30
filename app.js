@@ -22,6 +22,7 @@ app.use("/api/v2/comments", commentsRouter);
 
 app.use(errormiddleware);
 
+app.get("/", (req, res) => { res.json({ message: "API is running" }) });
 app.listen(PORT,async () => {
     console.log(`server is running on http://localhost:${PORT}`);
     await connectToDatabase();

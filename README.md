@@ -149,6 +149,14 @@ npm run dev
 
 ---
 
+## 🌍 Live Demo
+
+API is deployed on Render:
+
+https://blog-api-xxx.onrender.com
+
+---
+
 ## 👤 Author
 
 Built as a training project by **Elias**.

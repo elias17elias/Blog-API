@@ -153,7 +153,7 @@ npm run dev
 
 API is deployed on Render:
 
-https://blog-api-xxx.onrender.com
+https://blog-api-joua.onrender.com
 
 ---
 
